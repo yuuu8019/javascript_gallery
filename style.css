@@ -10,6 +10,10 @@
     justify-content: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 150%;
+    background-image: url('images/background.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;  
 
   }
   
